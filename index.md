@@ -2,21 +2,22 @@
 
 layout: col-sidebar
 title: OWASP Cyber Security Enterprise Operations Architecture
-tags: example-tag
+tags: cyber security SOC operations enterprise architecture SIEM SOAR data
 level: 1
-type: 
-pitch: A very brief, one-line description of your project
+type: documentation
+pitch: Incorporate a system and software engineering approach to develop a Cyber Security Operations Architecture template for use as an industry standard.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Cyber Security Operations Centres (SOC) endeavour to detect and respond to cyber-attacks in near real-time with a centralised and structured approach. Using the concept of people, processes, and technologies, mature SOCs provide capabilities such as threat monitoring, forensic investigation, incident management and security reporting.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+The SOC is the only viable solution for large organisations to combat Advanced Persistent Threats (APT) and other sophisticated cyber-attack actors. Therefore, the deployment of enterprise security operations functions are increasing for both internal IT teams and as managed services. However, several issues surrounding an approved framework, architecture models and incident identification workflows are slowing the progress of cyber defence.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+The accepted commercial SOC frameworks are business-risk and vendor product driven, adapting solutions from vendor and industry certification alignment. On the contrary, as a crime and technology issue, SOC framework development could benefit from an adherence to enterprise architecture frameworks, defence frameworks, system and software engineering concepts and even combat system architectures.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+Research in discovering the optimal SOC architectural framework is minimal. Attention is given to vendor technology capability (Systems rather than subsystems) without an overall system of systems view that has the ability to detect and respond to advanced threats holistically across a network. Conceptual and design research therefore has been commissioned by OWASP to develop a mission-orientated SOC framework with accompanying architectural models to show the variance or the agreed upon types of operations environments.
 
-type: code, tool, documentation, or other
+Discovering the optimal SOC operations architecture could lead to new technology developments and security functions that enhance the overall detection rate of sophisticated attacks, whilst reducing the human interaction and minimising false positives through automated elements.
+
+If interested in contributing to this project please contact Matthew Wilkinson.
